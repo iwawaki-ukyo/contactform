@@ -1,0 +1,48 @@
+body{
+    
+}
+
+h1{
+    border-left: 4px solid red;
+    background-color: #f1f1f1;
+    margin:0 auto;
+    margin-top:30px; 
+    margin-bottom:65px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    width:500px;
+    font-size:20px
+}
+
+form{
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    margin: 0 auto;
+    width:500px
+}
+
+form div{
+    padding:15px;
+}
+
+.div1{
+    margin-bottom:15px;
+}
+
+.text,textarea,.dropdown{
+    background-color:#fbfbfb
+    border: 1px solid #dfdfdf;
+    color:black;
+    padding:5px;
+}
+
+.submit{
+    background:1px solid lightgray;
+    background-color:#fbfbfb;
+    border-radius:50px;
+    border-bottom:solid 2px gray;
+    color:white;
+    padding:4px 8px;
+}
